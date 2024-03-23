@@ -14,7 +14,7 @@
   > Aproveite este recurso valioso enquanto continuamos nossa jornada de aprendizado em Inteligência Artificial! 🚀.
 </div>
 
-## :eyes: Técnica de Pré Processamento aplicadas
+## :eyes: Técnicas de Pré Processamento aplicadas
 - [X] Exploração de dados
 - [X] Limpeza de dados
 - [X] Agrupamento de Categorias: Gênero e Estado
