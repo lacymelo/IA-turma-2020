@@ -1,5 +1,5 @@
 <div align="justify">
-  <h1>
+  <h1 align="center">
     🤖 Inteligência Artificial 🤖
   </h1>
 
