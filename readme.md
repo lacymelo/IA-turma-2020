@@ -9,7 +9,7 @@
 
   > Bem-vindos ao repositório da aula de Inteligência Artificial (IA) da turma de Sistemas de Informação (SI) de 2020! Este repositório apresenta o código fonte completo utilizado durante a disciplina, desde o pré-processamento dos dados até a aplicação dos modelos de IA.
 
-  > Objetivo: Identificar o melhor modelo para prever se o crédito do cliente deve ou não ser aprovado.
+  > Objetivo: Identificar o melhor modelo para prever se o crédito do cliente deve ou não ser aprovado em uma agência bancária.
 
   > Aproveite este recurso valioso enquanto continuamos nossa jornada de aprendizado em Inteligência Artificial! 🚀.
 </div>
